@@ -1,0 +1,35 @@
+ .title {
+    background-color: black;
+    color: red;
+    text-align: center;
+    padding: 20px;
+    margin: 20px 350px;
+    border: double red 10px ;
+}
+
+
+    .list{background-color: gray;
+        padding-left: 120px;
+        margin: 10px 300px;
+        border: double orangered 10px;
+      
+
+    }
+    .tater {
+    padding: 5px;
+
+
+}
+
+
+    .chicken{
+    padding: 5px; ;
+}
+
+
+
+    .chili{
+    padding: 5px; ;
+}
+
+
